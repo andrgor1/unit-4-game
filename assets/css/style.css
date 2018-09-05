@@ -1,0 +1,104 @@
+
+.container {
+  margin: 0 auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: blue;
+  width: 960px;
+}
+
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background: #efeee7;
+  text-align: center;
+
+
+  background:
+  linear-gradient(45deg, #92baac 45px, transparent 45px)64px 64px,
+  linear-gradient(45deg, #92baac 45px, transparent 45px,transparent 91px, #e1ebbd 91px, #e1ebbd 135px, transparent 135px),
+  linear-gradient(-45deg, #92baac 23px, transparent 23px, transparent 68px,#92baac 68px,#92baac 113px,transparent 113px,transparent 158px,#92baac 158px);
+  background-color:#e1ebbd;
+  background-size: 128px 128px;
+}
+
+#box1 {
+	text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  padding: 20px; 
+  width: 25%;
+  background: orange;
+  }
+
+  #box2 {
+	text-align: center;
+  margin: auto;
+  padding: 20px; 
+  width: 50%;
+  background: yellow;
+  }
+
+  #box3 {
+  text-align: center;
+  margin: auto;
+  padding: 15px; 
+  width: 15%;
+  margin-left:33%;
+  height: 120px;
+  background: green;
+  float: left;
+  }
+  
+  #box4 {
+  text-align: center;
+  margin: auto;
+  padding: 15px; 
+  width: 15%;
+  height:120px;
+  background: lightblue;
+  float: left;
+  }
+
+  #box5 {
+  text-align: center;
+  margin: auto;
+  margin-left:35%;
+  padding: 10px; 
+  width: 100px;
+  height:100px;
+  float: left;
+  }
+
+  #box6 {
+  text-align: center;
+  margin: auto;
+  padding: 10px; 
+  width: 100px;
+  height:100px;
+  float: left;
+  }
+
+  #box7 {
+    text-align: bottom;
+    margin: auto;
+    padding-top: 130px;
+    padding: 10px; 
+    width: 30%;
+    background: lightblue;
+    }
+    
+  #box7 {
+    text-align: bottom;
+    margin: auto;
+    padding-top: 130px;
+    padding: 10px; 
+    width: 30%;
+    background: lightblue;
+    }
